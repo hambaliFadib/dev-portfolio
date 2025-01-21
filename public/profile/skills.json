@@ -1,0 +1,140 @@
+{
+    "intro": "I love to learn new things and experiment with new technologies. \n These are some of the major languages, technologies, tools and platforms I have worked with:",
+    "skills": [{
+
+        "title": "Operating System",
+        "items" : [
+
+            {
+                "icon": "images/skills/windows.png",
+                "title": "Windows"
+            },
+            {
+                "icon": "images/skills/linux.jpeg",
+                "title": "Linux"
+            }
+        ]},
+        {
+            "title": "Languages & Databases",
+            "items" : [
+                
+                {
+                    "icon": "images/skills/html.png",
+                    "title": "HTML"
+                },
+                {
+                    "icon": "images/skills/css.png",
+                    "title": "CSS"
+                },
+                {
+                    "icon": "images/skills/java.png",
+                    "title": "Java"
+                },
+                {
+                    "icon": "images/skills/php.png",
+                    "title": "PHP"
+                },
+                {
+                    "icon": "images/skills/js.png",
+                    "title": "JavaScript"
+                },
+                {
+                    "icon": "images/skills/python.png",
+                    "title": "Python"
+                },
+                {
+                    "icon": "images/skills/mysql.png",
+                    "title": "MySQL"
+                },
+                {
+                    "icon": "images/skills/postgreesql.png",
+                    "title": "PostgreSQL"
+                },
+                {
+                    "icon": "images/skills/firebase.png",
+                    "title": "Firebase"
+                }
+        ]},
+        {
+            "title": "Frameworks & Technologies",
+            "items" : [
+                {
+                    "icon": "images/skills/bootstrap.jpeg",
+                    "title": "Bootstrap"
+                },
+                {
+                    "icon": "images/skills/tailwind.png",
+                    "title": "Tailwind"
+                },
+                {
+                    "icon": "images/skills/laravel.png",
+                    "title": "Laravel"
+                },
+                {
+                    "icon": "images/skills/flask.png",
+                    "title": "Flask"
+                },
+                {
+                    "icon": "images/skills/react.png",
+                    "title": "React"
+                },
+                {
+                    "icon": "images/skills/nodejs.png",
+                    "title": "Nodejs"
+                },
+                {
+                    "icon": "images/skills/phpunit.png",
+                    "title": "PHPUnit"
+                },
+                {
+                    "icon": "images/skills/pytest.png",
+                    "title": "Pytest"
+                },
+                {
+                    "icon": "images/skills/jest.png",
+                    "title": "Jest"
+                },
+                {
+                    "icon": "images/skills/django.png",
+                    "title": "Django"
+                }
+            ]
+        },
+        {
+            "title" : "Tools & Platforms",
+            "items": [
+                {
+                    "icon": "images/skills/github2.png",
+                    "title": "Github"
+                },
+                {
+                    "icon": "images/skills/git.png",
+                    "title": "Git"
+                },
+                {
+                    "icon": "images/skills/docker.png",
+                    "title": "Docker"
+                },
+                {
+                    "icon": "images/skills/laragon.png",
+                    "title": "Laragon"
+                },
+                {
+                    "icon": "images/skills/cypress.png",
+                    "title": "Cypress"
+                },
+                {
+                    "icon": "images/skills/jmeter.png",
+                    "title": "Jmeter"
+                },
+                {
+                    "icon": "images/skills/aws.png",
+                    "title": "AWS"
+                },
+                {
+                    "icon": "images/skills/minio.png",
+                    "title": "MinIO"
+                }
+            ]
+    }
+]}

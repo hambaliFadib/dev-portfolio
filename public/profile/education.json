@@ -1,0 +1,22 @@
+{
+    "education":[
+        {
+            "title": "Sep 2024 - Now",
+            "cardTitle": "B.Tech, Computer Science",
+            "cardSubtitle":"Universitas Siber Asia, Jakarta Selatan",
+            "cardDetailedText": "IPK - 3,49",
+            "icon" : {
+                "src": "images/education/colage.png"
+            }
+        },
+        {
+            "title": "Jun 2020 - Mei 2024",
+            "cardTitle": "High School",
+            "cardSubtitle":"SMKN 1 Soreang, Kab.Bandung",
+            "cardDetailedText": "Rates - 84,00",
+            "icon" : {
+                "src": "images/education/school.png"
+            }
+        }
+    ]
+}

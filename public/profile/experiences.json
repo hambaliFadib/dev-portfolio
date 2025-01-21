@@ -1,0 +1,50 @@
+{
+    "experiences": [
+        {
+            "title": "Electronic Data Processing",
+            "subtitle": "PT Papyrus Sakti Paper Mill",
+            "workType": "Internship",
+            "workDescription": [
+                "Installation and maintenance of computer networks.",
+                "Hardware and software maintenance"
+            ],
+            "dateText": "01/07/2022 – 03/07/2022"
+        },
+        {
+            "title": "Technical Support",
+            "subtitle": "PT Neuronworks - afiliate PT Telkom Indonesia.",
+            "workType": "Contract",
+            "workDescription": [
+                "Cloud Object Storage",
+                "Migrate data from bucket.",
+                "Analyzing and monitoring server data object growth."
+            ],
+            "dateText": "15/08/2023 – 10/06/2024"
+        },
+        {
+            "title": "Softwre Quality Assurance",
+            "subtitle": "PT Neuronworks - afiliate PT Telkom Indonesia.",
+            "workType": "Contract",
+            "workDescription": [
+                "UI Test, testing UI (User Interface) automation applications using JavaScript-based or manual Cypress to test the UX (User Experience) of the application.",
+                "Integration Test, API testing using postman to check integration in the application.",
+                "Unit Testing, testing each function of the application as a whole to test integration into the DB and application interface functions.",
+                "Security Testing, testing the application in the form of SQL injection to ensure the application is not vulnerable."
+            ],
+            "dateText": "14/08/2024 – 24/07/2025"
+        },
+        {
+            "title": "Developer",
+            "subtitle": "Freelance",
+            "workType": "",
+            "workDescription": [
+                "Data Analyst Performance Report.",
+                "AI-based chat bot using python.",
+                "Tokenized Asset Management.",
+                "Develop a remote Hydroponic Monitoring IOT product using Telegram.",
+                "Developing a web-based trip planner application."
+            ],
+            "dateText": "04/15/2024 – Now"
+        }
+    ]
+}

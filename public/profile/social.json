@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "www.linkedin.com/in/hambali-fadib-502886276"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/hambaliFadib"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:fadibhambali@gmail.com"
+        }
+    ]
+}
