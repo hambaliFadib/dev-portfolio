@@ -27,6 +27,14 @@
                     "title": "CSS"
                 },
                 {
+                    "icon": "images/skills/c++.png",
+                    "title": "C++"
+                },
+                {
+                    "icon": "images/skills/c.png",
+                    "title": "C"
+                },
+                {
                     "icon": "images/skills/java.png",
                     "title": "Java"
                 },
